@@ -1,16 +1,14 @@
 Package: FRBData
 Type: Package
-Title: Download financial data from FRB's website
-Version: 0.2
-Date: 2011-04-24
+Title: Download interest rate data from FRB's website
+Version: 0.3
+Date: 2011-10-27
 Author: Shinichi Takayanagi
 Maintainer: Shinichi Takayanagi<teramonagi@gmail.com>
-Description: This package provides functions which can get financial
-        and economical data from FRB's
-        website.(http://www.federalreserve.gov)
+Description: This package provides functions which can get financial and economical data from FRB's website.(http://www.federalreserve.gov)
 License: BSD
 LazyLoad: yes
 Depends: xts
-Packaged: 2011-04-24 06:53:13 UTC; Administrator
+Packaged: 2011-10-27 11:03:27 UTC; yana
 Repository: CRAN
-Date/Publication: 2011-04-24 08:12:27
+Date/Publication: 2011-10-27 19:34:41
